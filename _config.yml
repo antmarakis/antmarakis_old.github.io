@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Antonios Maronikokalis"
   avatar           : "profile.png"
-  bio              : "Incoming PhD candidate in NLP"
-  location         : "Location"
-  employer         :
+  bio              : "PhD student in NLP"
+  location         : "München, Germany"
+  employer         : "LMU"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "antmarakis@cis.lmu.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
