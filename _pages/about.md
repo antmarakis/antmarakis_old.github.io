@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Antonis Maronikolakis, an (incoming) PhD candidate at LMU, researching in the field of Natural Language Processing and Deep Learning.
+I am Antonis Maronikolakis, a PhD student at LMU, researching in the field of Natural Language Processing and Deep Learning.
