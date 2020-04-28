@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Analyzing Political Parody in Social Media"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/analyzing-political-parody-in-social-media
+excerpt: ''
+date: 28/04/2020
+venue: 'ACL 2020'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Antonis Maronikolakis, Danae S\'{a}nchez Villegas, Daniel Preo\c{t}iuc-Pietro, Nikolaos Aletras (2020). &quot;Paper Title Number 1.&quot; <i>ACL</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Parody is a figurative device used to imitate an entity for comedic or critical purposes and represents a widespread phenomenon in social media through many popular parody accounts. In this paper, we present the first computational study of parody. We introduce a new publicly available data set of tweets from real politicians and their corresponding parody accounts. We run a battery of supervised machine learning models for automatically detecting parody tweets with an emphasis on robustness by testing on tweets from accounts unseen in training, across different genders and across countries. Our results show that political parody tweets can be predicted with an accuracy up to 90%. Finally, we identify the markers of parody through a linguistic analysis. Beyond research in linguistics and political communication, accurately and automatically detecting parody is important to improving fact checking for journalists and analytics such as sentiment analysis through filtering out parodical utterances.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/parody_acl2020.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Antonis Maronikolakis, Danae S\'{a}nchez Villegas, Daniel Preo\c{t}iuc-Pietro, Nikolaos Aletras (2020). "Paper Title Number 1." <i>ACL</i>. 1(1).
