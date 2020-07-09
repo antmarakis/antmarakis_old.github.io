@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my (only slighlty outdated) resume [here](https://drive.google.com/file/d/1lzX8k5fVoySms0lSKDQxgE0HJEVyH3hG/view?usp=sharing).
+You can find my (only slighlty outdated) resume [here](https://github.com/antmarakis/antmarakis.github.io/blob/master/files/antonis_resume.pdf).
